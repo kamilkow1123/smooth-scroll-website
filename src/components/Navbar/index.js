@@ -52,7 +52,7 @@ const Navbar = ({ toggle }) => {
 								spy={true}
 								exact="true"
 								offset={-80}
-								// activeClass="active" //not necessary because of the styled components
+								activeClass="active" //not necessary because of the styled components
 							>
 								About
 							</NavLinks>
@@ -65,7 +65,7 @@ const Navbar = ({ toggle }) => {
 								spy={true}
 								exact="true"
 								offset={-80}
-								// activeClass="active"
+								activeClass="active"
 							>
 								Discover
 							</NavLinks>
@@ -78,7 +78,7 @@ const Navbar = ({ toggle }) => {
 								spy={true}
 								exact="true"
 								offset={-80}
-								// activeClass="active"
+								activeClass="active"
 							>
 								Services
 							</NavLinks>
@@ -91,7 +91,7 @@ const Navbar = ({ toggle }) => {
 								spy={true}
 								exact="true"
 								offset={-80}
-								// activeClass="active"
+								activeClass="active"
 							>
 								Sign Up
 							</NavLinks>
