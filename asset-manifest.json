@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/smooth-scroll-website/static/css/main.b33ae325.chunk.css",
-    "main.js": "/smooth-scroll-website/static/js/main.32b95a12.chunk.js",
-    "main.js.map": "/smooth-scroll-website/static/js/main.32b95a12.chunk.js.map",
+    "main.js": "/smooth-scroll-website/static/js/main.5c630111.chunk.js",
+    "main.js.map": "/smooth-scroll-website/static/js/main.5c630111.chunk.js.map",
     "runtime-main.js": "/smooth-scroll-website/static/js/runtime-main.3031306b.js",
     "runtime-main.js.map": "/smooth-scroll-website/static/js/runtime-main.3031306b.js.map",
-    "static/js/2.8b90fa54.chunk.js": "/smooth-scroll-website/static/js/2.8b90fa54.chunk.js",
-    "static/js/2.8b90fa54.chunk.js.map": "/smooth-scroll-website/static/js/2.8b90fa54.chunk.js.map",
+    "static/js/2.8906f0c5.chunk.js": "/smooth-scroll-website/static/js/2.8906f0c5.chunk.js",
+    "static/js/2.8906f0c5.chunk.js.map": "/smooth-scroll-website/static/js/2.8906f0c5.chunk.js.map",
     "index.html": "/smooth-scroll-website/index.html",
     "static/css/main.b33ae325.chunk.css.map": "/smooth-scroll-website/static/css/main.b33ae325.chunk.css.map",
-    "static/js/2.8b90fa54.chunk.js.LICENSE.txt": "/smooth-scroll-website/static/js/2.8b90fa54.chunk.js.LICENSE.txt",
+    "static/js/2.8906f0c5.chunk.js.LICENSE.txt": "/smooth-scroll-website/static/js/2.8906f0c5.chunk.js.LICENSE.txt",
     "static/media/car.svg": "/smooth-scroll-website/static/media/car.d4728627.svg",
     "static/media/cash.svg": "/smooth-scroll-website/static/media/cash.bfcfdfbb.svg",
     "static/media/desk.f87fbd6b.svg": "/smooth-scroll-website/static/media/desk.f87fbd6b.svg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3031306b.js",
-    "static/js/2.8b90fa54.chunk.js",
+    "static/js/2.8906f0c5.chunk.js",
     "static/css/main.b33ae325.chunk.css",
-    "static/js/main.32b95a12.chunk.js"
+    "static/js/main.5c630111.chunk.js"
   ]
 }
