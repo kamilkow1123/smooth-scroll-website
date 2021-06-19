@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/smooth-scroll-website/static/css/main.b33ae325.chunk.css",
+    "main.js": "/smooth-scroll-website/static/js/main.32b95a12.chunk.js",
+    "main.js.map": "/smooth-scroll-website/static/js/main.32b95a12.chunk.js.map",
+    "runtime-main.js": "/smooth-scroll-website/static/js/runtime-main.3031306b.js",
+    "runtime-main.js.map": "/smooth-scroll-website/static/js/runtime-main.3031306b.js.map",
+    "static/js/2.8b90fa54.chunk.js": "/smooth-scroll-website/static/js/2.8b90fa54.chunk.js",
+    "static/js/2.8b90fa54.chunk.js.map": "/smooth-scroll-website/static/js/2.8b90fa54.chunk.js.map",
+    "index.html": "/smooth-scroll-website/index.html",
+    "static/css/main.b33ae325.chunk.css.map": "/smooth-scroll-website/static/css/main.b33ae325.chunk.css.map",
+    "static/js/2.8b90fa54.chunk.js.LICENSE.txt": "/smooth-scroll-website/static/js/2.8b90fa54.chunk.js.LICENSE.txt",
+    "static/media/car.svg": "/smooth-scroll-website/static/media/car.d4728627.svg",
+    "static/media/cash.svg": "/smooth-scroll-website/static/media/cash.bfcfdfbb.svg",
+    "static/media/desk.f87fbd6b.svg": "/smooth-scroll-website/static/media/desk.f87fbd6b.svg",
+    "static/media/plan.svg": "/smooth-scroll-website/static/media/plan.d40f8030.svg",
+    "static/media/report.bc5309e2.svg": "/smooth-scroll-website/static/media/report.bc5309e2.svg",
+    "static/media/resume.f9c9f4b6.svg": "/smooth-scroll-website/static/media/resume.f9c9f4b6.svg",
+    "static/media/video.a2703484.mp4": "/smooth-scroll-website/static/media/video.a2703484.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3031306b.js",
+    "static/js/2.8b90fa54.chunk.js",
+    "static/css/main.b33ae325.chunk.css",
+    "static/js/main.32b95a12.chunk.js"
+  ]
+}
