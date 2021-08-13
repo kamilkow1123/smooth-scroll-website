@@ -5,7 +5,7 @@ Website: https://kamilkow1123.github.io/smooth-scroll-website/
 ---
 ## Description
 
-Simple website built with React and styled-components. Using react-router and react-scroll
+Simple website built with React and styled-components. Using react-router and react-scroll.
 
 ### Technologies
 - React
@@ -21,4 +21,4 @@ In the project directory run:
 ### ``npm start``
 
 Runs the app in the development mode.\
-Open [http://localhost:9500](http://localhost:9500) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
